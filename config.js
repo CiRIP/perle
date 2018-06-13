@@ -213,71 +213,71 @@ export const quotes = [
 
 	// Bacalaureat 2017
 	{
-		text: "Ion a fost unul dintre personajele lui Slavici care a ştiut să lupte foarte mult pentru viaţă dar şi pentru a nu fi bătaia de joc a oamenilor din Siliştea-Gumeşti.",
+		text: "Ion a fost unul dintre personajele lui Slavici care a știut să lupte foarte mult pentru viață dar și pentru a nu fi bătaia de joc a oamenilor din Siliștea-Gumești.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Ghiţă ştia el că nu e bărbat ca să o facă pe Ana aia fericită aşa că lasă sa i-o pună Samadaul care era bărbat bine şi care ştia să manevreze doamnele de la ţară ca ea.",
+		text: "Ghiță știa el că nu e bărbat ca să o facă pe Ana aia fericită așa că lasă sa i-o pună Samadaul care era bărbat bine și care știa să manevreze doamnele de la țară ca ea.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Nu stiu cât ajută comunicarea, dar ştiu că trebuie să arăţi bine ca să fii integrat într-o echipa, femeile au noroc, au si papagal te fac din prima, barbatii sunt mai prosti de fel si le cad ăstora la genunchi.",
+		text: "Nu stiu cât ajută comunicarea, dar știu că trebuie să arăți bine ca să fii integrat într-o echipa, femeile au noroc, au si papagal te fac din prima, barbatii sunt mai prosti de fel si le cad ăstora la genunchi.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Doamna ne-a vorbit despre cinematografie şi ne-a pus să observăm diferenţele dintre realitate şi vis, nu prea poţi să iti dai seama mai ales dacă esti un regizor destept să aduci totul ca în realitate.",
+		text: "Doamna ne-a vorbit despre cinematografie și ne-a pus să observăm diferențele dintre realitate și vis, nu prea poți să iti dai seama mai ales dacă esti un regizor destept să aduci totul ca în realitate.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "În cinematografie nu există contrastul dintre aparenţă şi esenţă",
+		text: "În cinematografie nu există contrastul dintre aparență și esență",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "O scenă reprezentativă care reflectă relaţia dintre Niculae şi Nilă este atunci când tat-so se duce la munte şi îi povesteste lui Niculae ce bine se simţea cu alte femei şi nu se comparau cu Catinca, sotia lui.",
+		text: "O scenă reprezentativă care reflectă relația dintre Niculae și Nilă este atunci când tat-so se duce la munte și îi povesteste lui Niculae ce bine se simțea cu alte femei și nu se comparau cu Catinca, sotia lui.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Ion este şmecher şi viclean cu Ana lui Baciu, o iubeşte pe după sobă şi o lasă cu burta la gură, nu ştiu cât il interesa pe el plodul, dar clar că vroia pământ.",
+		text: "Ion este șmecher și viclean cu Ana lui Baciu, o iubește pe după sobă și o lasă cu burta la gură, nu știu cât il interesa pe el plodul, dar clar că vroia pământ.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Oamenii nu comunica la serviciu ca să faca nişte proiecte de asta sunt serviciile praf la noi în ţară.",
+		text: "Oamenii nu comunica la serviciu ca să faca niște proiecte de asta sunt serviciile praf la noi în țară.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Ion este precum Lăpuşneanul crud şi disimulator şi îşi bate soţia aşa cum o făcea şi Lăpuşneanul la împăraţie.",
+		text: "Ion este precum Lăpușneanul crud și disimulator și își bate soția așa cum o făcea și Lăpușneanul la împărație.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Versurile din strofa citată exprimă moartea iubirii şi faptul ca poetul se apropie să moară.",
+		text: "Versurile din strofa citată exprimă moartea iubirii și faptul ca poetul se apropie să moară.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Ion a apărut în anul 1999 în perioada interbelica, adica spre sfârşit, mai exact în perioada contemporană sau postbelică.",
+		text: "Ion a apărut în anul 1999 în perioada interbelica, adica spre sfârșit, mai exact în perioada contemporană sau postbelică.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Glasul iubirii este sfârşitul dramatugiei în literatură, se stinge amorul intelectualui Ion cu ţăranca de Florica.",
+		text: "Glasul iubirii este sfârșitul dramatugiei în literatură, se stinge amorul intelectualui Ion cu țăranca de Florica.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "În opinia mea, iubirea în romanul Moromeţii este deosebită şi transmite un gând pozitiv pentru lupta lui Moromete de a nu se stinge iubirea faţă de satul rural.",
+		text: "În opinia mea, iubirea în romanul Moromeții este deosebită și transmite un gând pozitiv pentru lupta lui Moromete de a nu se stinge iubirea față de satul rural.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Cât despre Florica nu pot spune că a fost cheie de biserică, când cu Ion când cu Vasile Baciu, nu-i mai ajungeau şi ei bărbaţii.",
+		text: "Cât despre Florica nu pot spune că a fost cheie de biserică, când cu Ion când cu Vasile Baciu, nu-i mai ajungeau și ei bărbații.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Vasile Baciu ii frige o bătaie lui Ana de o omoară iar la înmormântare o jeleşte, părinţii lui Ion mor de bautură odata cu copilul lor Petrişor.",
+		text: "Vasile Baciu ii frige o bătaie lui Ana de o omoară iar la înmormântare o jelește, părinții lui Ion mor de bautură odata cu copilul lor Petrișor.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Să crezi şi să nu vezi, Ilie era tatăl lui Slavici cel mai mare prozator de după anul 1990.",
+		text: "Să crezi și să nu vezi, Ilie era tatăl lui Slavici cel mai mare prozator de după anul 1990.",
 		source: "Bacalaureat 2017"
 	},
 	{
-		text: "Moromeţii este o capodoperă a liricii româneşti care a reuşit să încânte cu măiestrie cititorii.",
+		text: "Moromeții este o capodoperă a liricii românești care a reușit să încânte cu măiestrie cititorii.",
 		source: "Bacalaureat 2017"
 	},
 
@@ -285,7 +285,7 @@ export const quotes = [
 
 	// Evaluarea Națională 2017
 	{
-		text: "Principalul mod de descriere este naraţiunea. Autorul exprimă sentimentul de admirare pentru vară.",
+		text: "Principalul mod de descriere este narațiunea. Autorul exprimă sentimentul de admirare pentru vară.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
@@ -293,7 +293,7 @@ export const quotes = [
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Nu văd alt rol al cratimei decât acela când ţie lene să vorbeşti pui linie",
+		text: "Nu văd alt rol al cratimei decât acela când ție lene să vorbești pui linie",
 		source: "Evaluarea Națională 2017"
 	},
 	{
@@ -305,79 +305,79 @@ export const quotes = [
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "A venit profesorul de sport care este înalt, musculos şi exigent.",
+		text: "A venit profesorul de sport care este înalt, musculos și exigent.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Cratima face o pauza in textul epic si vrea sa arate ca poetul Magda e mai special, mult mai special.",
+		text: "Cratima face o pauză in textul epic si vrea să arate că poetul Magda e mai special, mult mai special.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Functia cratimei este de unire sau de despartire, in functie de cum se simte scriitorul atunci.",
+		text: "Funcția cratimei este de unire sau de despărțire, în funcție de cum se simte scriitorul atunci.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Rolul cratimei este sa incalece doua cuvinte.",
+		text: "Rolul cratimei este să încalece două cuvinte.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Domnisoara poeta a facut o figura frumoasa, cum se spune la fotbal, numai ca ea a facut mai multe.",
+		text: "Domnișoara poetă a făcut o figură frumoasă, cum se spune la fotbal, numai că ea a făcut mai multe.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "O figura de stil este „frumusetea dintai”, adica este o expresie ca la tara.",
+		text: "O figură de stil este „frumusețea dintâi”, adică este o expresie ca la țara.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "O figura de stil este chiar numele poetului, deoarece este barbat dar are nume de femeie, e ca la Stanescu, asa ne zice profa la clasa.",
+		text: "O figură de stil este chiar numele poetului, deoarece este bărbat dar are nume de femeie, e ca la Stănescu, așa ne zice profa la clasă.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Poezia are multe figuri de stil, este bine sa amintim asa ceva deoarece toate aceste cuvinte devin celebre pentru poeta, ea a trait cu aceste cuvinte.",
+		text: "Poezia are multe figuri de stil, este bine să amintim așa ceva deoarece toate aceste cuvinte devin celebre pentru poetă, ea a trăit cu aceste cuvinte.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Masura versului este egala cu numarul de litere, deci avem peste 50.",
+		text: "Măsura versului este egală cu numarul de litere, deci avem peste 50.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "O trasatura a genului liric este ca oamenii nu vor sa citeasca poezii, in zilele noastre vrem mai multa actiune.",
+		text: "O trăsatură a genului liric este că oamenii nu vor să citească poezii, în zilele noastre vrem mai multă acțiune.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Poezia apartine genului liric pentru ca nu tii minte nimic din ea.",
+		text: "Poezia aparține genului liric pentru că nu ții minte nimic din ea.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Genul liric este atunci cand ploaia suna ca o lira.",
+		text: "Genul liric este atunci când ploaia sună ca o liră.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Genul liric este facut de femei cu trasaturi frumoase, care vor sa arate ca au succes la barbati.",
+		text: "Genul liric este făcut de femei cu trăsături frumoase, care vor să arate că au succes la barbați.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Genul liric este atunci cand autorul are, de fapt, in cap o melodie, dar nu stie exact notele si pana la urma scrie versuri.",
+		text: "Genul liric este atunci când autorul are, de fapt, în cap o melodie, dar nu știe exact notele și până la urmă scrie versuri.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Una din trasaturile genului liric este visatoarea, pentru ca poetul viseaza niste treburi.",
+		text: "Una din trăsăturile genului liric este visătoarea, pentru că poetul viseaza niște treburi.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Exact cand am dat eu gol s-a busit tabelul de scor. Si am zis: sa mor io! Exact ca la scoala. Cand sa vina vacanta si sa scap ma luati cu examenele.",
+		text: "Exact când am dat eu gol s-a bușit tabelul de scor. Și am zis: să mor io! Exact ca la școală. Când să vină vacanța și să scap mă luați cu examenele.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "As fi vrut sa particip si eu, dar eram plin de muci.",
+		text: "Aș fi vrut să particip și eu, dar eram plin de muci.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Toate echipele trageau la victorie, pentru ca premiul intai le aducea o carca de bani.",
+		text: "Toate echipele trăgeau la victorie, pentru că premiul întâi le aducea o cârcă de bani.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
-		text: "Cand a iesit primul, maratonistul a scos un sunet de bucurie, ca un guitat puternic.",
+		text: "Când a ieșit primul, maratonistul a scos un sunet de bucurie, ca un guițat puternic.",
 		source: "Evaluarea Națională 2017"
 	},
 	{
@@ -431,15 +431,15 @@ export const quotes = [
 
 	// Bacalaureat 2016
 	{
-		text: "Romanul Riga Crypto si Lapona Enigel este unul tradiţionalist, de factură modernistă.",
+		text: "Romanul Riga Crypto si Lapona Enigel este unul tradiționalist, de factură modernistă.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Ion este nărăvaş şi iubitor, atingând-o discret pe Ana.",
+		text: "Ion este nărăvaș și iubitor, atingând-o discret pe Ana.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Eu nuti strivesc corala de minuni a lumii este scrisă când poetul era sub influienţa lui Bacchus.",
+		text: "Eu nuti strivesc corala de minuni a lumii este scrisă când poetul era sub influiența lui Bacchus.",
 		source: "Bacalaureat 2016"
 	},
 	{
@@ -447,11 +447,11 @@ export const quotes = [
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Moromeţii are ca personaj pe Marin Moromete, care are o viziune despre lume în care ţăranul român avea copii, pe care îi bătea, deoarece ei cereau haine şi fugeau cu oile la oraş, mai ales unul dintre fraţi, Nilă.",
+		text: "Moromeții are ca personaj pe Marin Moromete, care are o viziune despre lume în care țăranul român avea copii, pe care îi bătea, deoarece ei cereau haine și fugeau cu oile la oraș, mai ales unul dintre frați, Nilă.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Moromete era zgârcit, dar nu era beţiv, ci era fumător.",
+		text: "Moromete era zgârcit, dar nu era bețiv, ci era fumător.",
 		source: "Bacalaureat 2016"
 	},
 	{
@@ -467,11 +467,11 @@ export const quotes = [
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Pe calculator, jocurile sunt bune, te învaţă să fii mai deştept decât eşti.",
+		text: "Pe calculator, jocurile sunt bune, te învață să fii mai deștept decât ești.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Virugula a făcut o pauză după ce a spus că-l iubeşte de Caterino, Caterino era homo.",
+		text: "Virugula a făcut o pauză după ce a spus că-l iubește de Caterino, Caterino era homo.",
 		source: "Bacalaureat 2016"
 	},
 	{
@@ -479,19 +479,19 @@ export const quotes = [
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Notaţiile autorului nu există, este gen dramatic, autorul apare la gen epic, deci este dramaturg.",
+		text: "Notațiile autorului nu există, este gen dramatic, autorul apare la gen epic, deci este dramaturg.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Lectura are şi părţi bune şi părţi rele, ce naiba să ajute literatura din şcoală.",
+		text: "Lectura are și părți bune și părți rele, ce naiba să ajute literatura din școală.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Lectura e deosebit de şucară când citeşti despre vedete nu despre frustraţi.",
+		text: "Lectura e deosebit de șucară când citești despre vedete nu despre frustrați.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Romanul psihologic Moara cu noroc îl are ca protagonist pe Ştefan Gheorghidiu care o omoară pe florica cu o sapă. Ea studentă la litere, fiind sensibilă, moare brusc, fără să respire.",
+		text: "Romanul psihologic Moara cu noroc îl are ca protagonist pe ștefan Gheorghidiu care o omoară pe florica cu o sapă. Ea studentă la litere, fiind sensibilă, moare brusc, fără să respire.",
 		source: "Bacalaureat 2016"
 	},
 	{
@@ -499,35 +499,35 @@ export const quotes = [
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Am ales romanul Luceafărul, prezintă psihologia stelei, adică a Luceafărului când scoboară din ceruri. Luceafărul este obsedat de fată şi scoboară la ia când îl strigă.",
+		text: "Am ales romanul Luceafărul, prezintă psihologia stelei, adică a Luceafărului când scoboară din ceruri. Luceafărul este obsedat de fată și scoboară la ia când îl strigă.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Tema este lungă şi profundă.",
+		text: "Tema este lungă și profundă.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Iubirea e ceva care îţi trece prin stomac, râgâi când nu mai ai sentimente.",
+		text: "Iubirea e ceva care îți trece prin stomac, râgâi când nu mai ai sentimente.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Două scene din Moromeţii lui Camil Petrescu este: când îl bate pe ăla cu ciomagu ca-n Moldova frăţioare şi când Nilă o înjură pe soţia lui Catrina.",
+		text: "Două scene din Moromeții lui Camil Petrescu este: când îl bate pe ăla cu ciomagu ca-n Moldova frățioare și când Nilă o înjură pe soția lui Catrina.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Dispozitivele electronice sunt cele mai importante, viaţa mea.",
+		text: "Dispozitivele electronice sunt cele mai importante, viața mea.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Ela era îndrăgostită de Harap şi îi taie capul să se asigure că este al ei.",
+		text: "Ela era îndrăgostită de Harap și îi taie capul să se asigure că este al ei.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Ion ăla i-o trage ăleia după sobă, cu ta-su de faţă. Aşa fraier era parcă nu mai era altă casă.",
+		text: "Ion ăla i-o trage ăleia după sobă, cu ta-su de față. Așa fraier era parcă nu mai era altă casă.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Aia nu se încurcă cu sentimente, se miră ca proasta când zice că simplu şi ăla nu pricepe.",
+		text: "Aia nu se încurcă cu sentimente, se miră ca proasta când zice că simplu și ăla nu pricepe.",
 		source: "Bacalaureat 2016"
 	},
 	{
@@ -535,41 +535,41 @@ export const quotes = [
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Jocurile sunt facute ca sa te enervezi ca nu poti sa treci pentru un anumit nivel.",
+		text: "Jocurile sunt făcute ca să te enervezi că nu poți să treci pentru un anumit nivel.",
 		source: "Bacalaureat 2016"
 	},
 	{
-		text: "Ultima noapte de dragoste prezinta viata grea cand iti lasi iubita acasa si pleci la lupta si nu mai faci…",
+		text: "Ultima noapte de dragoste prezintă viața grea când iți lași iubita acasă și pleci la luptă și nu mai faci ...",
 		source: "Bacalaureat 2016"
 	},
 
 	// Simulare Bacalaureat 2016
 	{
-		text: "E profundă tema poeziei, nu îţi poţi da seama de ea, poetul e cam visitor şi se stinge uşor-uşor în lume.",
+		text: "E profundă tema poeziei, nu îți poți da seama de ea, poetul e cam visitor și se stinge ușor-ușor în lume.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Versurile au la bază jertfa, fiind cum am spus mai sus o bijuterie, trebuie să cadă în noapte şi să se stingă în roua rozelor.",
+		text: "Versurile au la bază jertfa, fiind cum am spus mai sus o bijuterie, trebuie să cadă în noapte și să se stingă în roua rozelor.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Eu nu utilizez internetul pentru cărţi, eu vorbesc cu prietenii pe facebook, stau la chat cu ei, îmi caut prieteni noi, mai dau cate un like din cand în când când vad câ cate un scriitor care postează ceva pe perete, dacă e smecher dau şi share.",
+		text: "Eu nu utilizez internetul pentru cărți, eu vorbesc cu prietenii pe facebook, stau la chat cu ei, îmi caut prieteni noi, mai dau cate un like din cand în când când vad câ cate un scriitor care postează ceva pe perete, dacă e smecher dau și share.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Cartea nu este promovată pe internet, aştia în fiecare an greşesc subiectele.",
+		text: "Cartea nu este promovată pe internet, aștia în fiecare an greșesc subiectele.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Stefan Gheorghidiu era frustrat, nu se poate sa iubesti o târfă, aia vroia bani mai ales ca a dat de ăla la Odobeşti. Ce prost stă după fundul femeii?",
+		text: "Stefan Gheorghidiu era frustrat, nu se poate sa iubesti o târfă, aia vroia bani mai ales ca a dat de ăla la Odobești. Ce prost stă după fundul femeii?",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "În opinia mea romanul „Moromeţii” are la bază tema iubirii dintre Ştefan si Ela.",
+		text: "În opinia mea romanul „Moromeții” are la bază tema iubirii dintre ștefan si Ela.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Roamanul Ion cuprinde 6 părţi adica 6 carţi şi a fost scris în 17 zile, semn că va sfârşi grav Ion. A fost omorat cu o furca care o ţinea tatăl Anei în grajd.",
+		text: "Roamanul Ion cuprinde 6 părți adica 6 carți și a fost scris în 17 zile, semn că va sfârși grav Ion. A fost omorat cu o furca care o ținea tatăl Anei în grajd.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
@@ -577,31 +577,31 @@ export const quotes = [
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "În romanul “Ion”, Rebreanu scrie o dramă psihologică tare de tot! Ion o iubeşte pe săraca Florica, dar se însoară cu bogata Ana. Florica îl iubeşte pe Ion, dar se însoară cu George. Toţi se iubesc între ei, dar invers.",
+		text: "În romanul “Ion”, Rebreanu scrie o dramă psihologică tare de tot! Ion o iubește pe săraca Florica, dar se însoară cu bogata Ana. Florica îl iubește pe Ion, dar se însoară cu George. Toți se iubesc între ei, dar invers.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Pe Florica o ardea în coceni iar pe Ana pe după sobă, bun băiat, destept, Ion se aseamană cu băieţii care stie ce vor de la o femeie, nu iubire.",
+		text: "Pe Florica o ardea în coceni iar pe Ana pe după sobă, bun băiat, destept, Ion se aseamană cu băieții care stie ce vor de la o femeie, nu iubire.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Rebreanu are surse gârlă de aceia a scris în 25 de ani, nu a ştiut ce să aleagă.",
+		text: "Rebreanu are surse gârlă de aceia a scris în 25 de ani, nu a știut ce să aleagă.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Tema este distractia poetului prin văzduh. Luna e întâlnită în toate poeziile care le-am citit.",
+		text: "Tema este distracția poetului prin văzduh. Luna e întâlnită în toate poeziile care le-am citit.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Idea poetică este smechera şi se afla cu titlul la sentimente.",
+		text: "Idea poetică este smechera și se afla cu titlul la sentimente.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Virgula desparte un cuvant de alt cuvant, să respire şi poetul.",
+		text: "Virgula desparte un cuvânt de alt cuvânt, să respire și poetul.",
 		source: "Simulare Bacalaureat 2016"
 	},
 	{
-		text: "Legile sunt date de proştii ăştia de la conducere. E bună dacă e promulgată de cine trebuie, dacă nu să ne lase dracu cu politica lor.",
+		text: "Legile sunt date de proștii ăștia de la conducere. E bună dacă e promulgată de cine trebuie, dacă nu să ne lase dracu cu politica lor.",
 		source: "Simulare Bacalaureat 2016"
 	}
 
