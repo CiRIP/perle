@@ -1,6 +1,232 @@
 export const quotes = [
 	// 2018
 
+	// Bacalaureat 2018
+	{
+		text: "Poezia spune povestea unui rege care se iubea cu o laponeza pe nume Enicer.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Nu e nimic mai romantic decât să te bagi în mijlocul câmpului seara și să scrii despre el, așa cum a făcut Tudor Arghezi.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Arghezi ne convinge în cele patru stofe că florile mucegăite ne pot îmbogăți viața, la fel ca multe lucruri mizerabile- de exemplu, reciclarea.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Poezia nu este punctulArghezi își scrie testamentul, conștient că toată lumea va afla despre aranjamentele lui. meu forte, așadar voi trata în schimb subiectul “Moromeții”, în care am găsit multe sensibilități poetice.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Poetul a făcut eforturi supraomenești ca să scrie pe pereți, chiar dacă i s-au tocit unghiile și n-au mai crescut.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Autorul e plin de nervi pe revista Lumea Turistică, pentru că îi face multe apropouri să plece și el nu poate.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Din text se deaprinde vizitarea unor locuri necunoscute când n-ai pe face pacasa.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Autorului i s-a luat să vadă superpoze prin revistă, așa că și-a luat barcă și s-a dus pe Nil.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Scriitorul stătea cu burta la soare la Brăila, când a venit un francez și i-a spus că în oraș locuiește domnul Panait Istrati, o vedetă locală.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Oamenii nu pot aprecia farmecul locului, dacă îi umple de spume șoselele, gunoaiele și prețurile mari. Este experiența mea personală și a prietenilor mei care au mașina.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "N-am nici opinie, nici concluzii, pentru că nu știu ce înseamnă “pertinente”.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Scriitorul își mai nota treburi în paranteză pentru că acum o sută de ani nu avea rimainder pe telefonul fix. Scria literele strâmbe ca să nu confunde cu restul textului.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "În paranteză se scrie cum să arate decorul și ce să facă actorii. De exemplu, ei trebuie să aibă ziare calde, să le frece cu degetele și să le ducă la nas.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Secvența este despre niște oameni ciudați care miros ziare și resimt plăcere. În zilele noastre, presa este citită online, deci am pierdut acest obicei.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Domnul care a scris regreta că nu s-a făcut controlor, ca să se plimbe cu trenul. Pe lângă salariu, putea să ia spaga de la cei fără bilet.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Mihai Eminescu pictează tablouri pe hârtie poetică.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Poetul face figuri interesante, pentru că asta îl atrage pe cititor.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Poetul nostru internațional Mihai Eminescu a folosit toate combinațiile de rime. Unele sunt crucise, restul împerecheate și întortocheate.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Oda lui Eminescu a fost măsurată cu metrul antic.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Luceafărul are în jur de 90 și ceva de strofe.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Două calități ale revistei ”Lumea turistică”: este frumoasă și interesantă.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Revista nu are calități, nu are cum este imposibil așa ceva, numai un om are așa ceva.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Poate poetul a vrut să impresioneze dar nu prea ia ieșit, asta întâlnești numai pe scenă când actorii joacă și spectatorii se uită la ei.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Autorul nu prea ia nicio atitudine e prea impresionat de străinez.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Și pe vremea lui nea Holban se holbau oamenii la străinezi să le ciordească banii, ce impresii despre țări...",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "În opinia mea, eu cred că este foarte, foarte, foarte important să faci multe, multe călătorii, dar trebuie să ai mulți, mulți bani.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Totodată, puștoaicele astea sau panaramele au acces la locuri frumoase, deoarece se târâie cu câte un hodorog și au farmec pentru locul în care trăiesc.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Oamenii știu să aprecieze mâncărica, băuturica, o puștoaică bună în pat și eventual niște bani pe gratis, acolo e locul frumos.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Doamna de română ne relatează întâmplările din locurile fascinante pe care le vizitează. Se pare că profesorii au bani și se plâng că nu au",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Mihail Sebastian este o notație scenică și nu prea impresionează.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Niță e un coleg de al meu o fi avut vreo rudă de a scris Sebastian de el.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Nu a predat nesimțita aia de română notațiile scenice, o să demonstrez că aparține genului liric.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "La noi în țară, numai proștii, borfașii, cocalarii, pesediștii, cei care au bani să se ducă, ei călătoresc, proștii care muncesc nu au noroc să vadă locuri frumoase.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Iona de Ion Barbu este un poem filosofic și prezintă drama unui om singur pe plajă și a unei ciuperci venită de la Polul Nord, dar nu pot fi împreună, deoarece ei gândesc diferit, unul e mai cu statut, alta e mai bogată.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Ciuperca îi cere să vină în lumea ei ca în Floare Albastră",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Ciuperca nu voia fragi ea căuta ceva de la băiețașul ăla",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "La Blaga sunt șase tipuri de cunoaștere care încearcă să lumineze lumea sau să o facă mai bună",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "O vino dorul meu / Eu te aștept să-ți dau fragi și ...",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Cobori la mine, măi Luceafăr / Să te mai văd odată / Iar astă seară eu te am.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Lucian Blaga s-a remarcat în literatură prin estetica grotescului",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Așa cum Blaga accentuează prin hiperbola ”corola de minuni” omul e dator, firește să cunoască și apoi să intre în combinații",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Eminescu a murit de multe, dar ce e trist că nu a terminat Luceafărul, l-a lăsat cu 98 de strofe",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Cătălin și Cătălina și-o trăgeau în spațiul rustic așa mai dă iubire eminesciană.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Eminescu este ultimul romantic, dar a mai fost vreunul? A fost crecă singurul nebun care a reușit să scrie o poezioară de 100 de versuri.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Iubirea se naște din multe, dar în carul Luceafărului se naște din propria reflecție care o vede în oglindă",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Luceafărul este un roman realist psihologic.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Închei acest eseu la Eminescu spunând și accentuând că este cea mai marfă poezie citită până în 2018, ia face trecerea de la o perioadă agitată din viața noastră la liniște, la calm",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Mihai Eminescu a scris poezii de dragoste și natură pentru că îi plăcea să facă dragoste în natură",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Eminescu stătea lângă lac ca să se scalde.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Sunt leneș de fel și atunci am învățat înainte cu o seară, și am avut noroc. A picat prietenul meu Blaga, cu care mă înțeleg foarte bine. Am zis să mă împrietenesc cu prietenii mei Blaga, Barbu și Tudor Arghezi și mi-o ieșit combinația cu ăștia.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Blaga nu voia să strivească corola de minuni a lumii pentru că era un om bun.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Blaga susține că el nu ucide cu mintea sa isteață tainele lumii, căci el iubește tot ce mișcă ori stă, chiar și mormintele.",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "lapona este un animal",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "Eu nu strivesc coroana de minuni a lunii (n.r astrul ceresc)",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "",
+		source: "Bacalaureat 2018"
+	},
+	{
+		text: "",
+		source: "Bacalaureat 2018"
+	},
+
 	// Evaluarea Națională 2018
 	{
 		text: "Copiii vor să-și lase mâncarea pentru că aveau la ei ouă fierte și ceapă, care probabil s-au împuțit și au atras sălbăticiunile pădurii, comoara noastră națională, Moș Martin.",
