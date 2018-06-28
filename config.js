@@ -218,14 +218,6 @@ export const quotes = [
 		text: "Eu nu strivesc coroana de minuni a lunii (n.r astrul ceresc)",
 		source: "Bacalaureat 2018"
 	},
-	{
-		text: "",
-		source: "Bacalaureat 2018"
-	},
-	{
-		text: "",
-		source: "Bacalaureat 2018"
-	},
 
 	// Evaluarea Națională 2018
 	{
