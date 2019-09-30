@@ -1,4 +1,282 @@
 export const quotes = [
+	// 2019
+	
+	// Bacalaureat 2019
+	{
+		text: "Secvența dată arată că ăla era cam fricos și nu vrea să se facă de cacao în fața lumii, asta vrea să arate că e bine să spui ce crezi",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Este să ții un discurs dacă ai de câștigat ceva, altfel nu se merită să vorbești ca fraierul pentru niște oameni care nu te ascultă.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Textul cere să vorbesc despre discurs și eu nu știu, dar citez niște fraze de unde reiese cuvâtul discurs.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Orator înseamnă să fii bun la oral, de ambele părți.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Căci eu ucid și ochi și flori și amorul meu de plumb; Bacovia accentuează că se simțea ucis de societate și că vroia și el să se ucidă. Artistul este predispus la suicid.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Blaga face parte din seria prozatorilor care a reușit să impresioneze cu estetica urâtului și că se săturase de urât și vrea ceva mai frumos în viața lui.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "E bine să se știe că ăștia au greșit exercițiul, nu există perspectivă narativă, textul aparține genului dramatic, iar doamna la clasă a zis că o să avem indicațiile scenice. În fiecare an se greșește?",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Laponei îi plăcea viața, voia alt bărbat în viața ei, nu un prostănac ca Crypto.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Soarele înseamnă înălțime în lumea cochetă, ființa gingașă voia să cocheteze ca Ela, ca Otilia, ca Vitoria Lipan.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Eu voi ține discursuri enorme la facultate, deoarece așa am auzit că e bine, dacă le ții iei note mari.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Eliade a transmis prin Plumb multă tristețe, dar Bacovia accentuează singurătatea că e sigură, orice om care suferă e singur așa ca Eliade.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Riga era ramolit și prost nu prea știa cum să o cucerească pe prințesa Soarelui.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Testament este impresionantă prin faptul că se inspiră din alegerile electorale din 1881, iar Caragiale prezintă prostia românească din politică care este și acum.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Iubirea lui Bacovia pentru cavou este sus, cavoul este iubita lui moartă de câțiva ani, care suferă enorm și stă lângă cimitir și așteaptă probabil să învieze.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Dacă ai bani ai haine șmechere cum avea conferențiarul.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Cât credeți că mai putea îndura Riga să nu o vadă pe ciupearca Lapona, e normal să o iei razna, era tânăr, voia giulgiuleală, fără asta nu poți spune că e iubire.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Cripto era virgin și nu știa să se comporte cu Lapona, îi dă niște mure poate- poate și apoi îi dă vin să profite unii de alții.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Vă pupă fratele vostru americanu, ne vedem și la anu.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Să vii să te iubesc în cimitirul nostru/Pe o lacustră de mult uitată; Minulescu a arătat tristețea apăsătoare din viața poetului Bacovia în critica făcută special pentru el.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Tristețea și iubirea sunt la înălțime pentru Călinescu care a scris Riga Cripto și a transmis-o apoi și în romanul de mare, mare întindere Enigma lui Otilia.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Când nu știi să răspunzi iubirii totul se sfărâmă în tristețe și vrei să te omori. Precum Bacovia mulți oameni se omoară și vor să se arunce de pe bloc, alții că nu au ce mânca sau alții că au bani și sunt bolnavi și nu fac față durerii. Astfel, poetul a încercat precum Slavici să aibă ceva moralizator și să spună că moartea nu e ultima cale de evadare, dar numai așa putea arăta prin lumea asta mortuară.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Vestimentația era șmecheră și aparte arăta că are bani. Banii l-au ajutat să aibe țoale trăsnet.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Lumea lui Bacovia atârnă greu. Greu.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "În cimitir toată lumea dormea- sicriele, coroanele, amorul... iar mortului îi atârnau aripile.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Poeziile lui Bacovia sunt foarte întunecoase, dar la fel și versurile.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Poetul stă acolo, nu-i place, dar s-a înțepenit și îl apasă versurile.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Poietul lasă moștenire urmașilor o grămadă de poiezii mizerabile.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Arghezi este un Isus care face din venin miere și din mucegai și noroi bijuterii!",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Testamentul se face când mori, dar cu puțin timp înainte.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Ânainte de orice spici te documentezi dacă oamenii au case, mașini, neveste și diverse animale de companie.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Documentarele le folosești la nevoie, și ei să rămână surprinzători.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Persoana care a impus tradiția discursului se numește Maiorescian.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Autorul se numește Maior. Pentru că a devenit cunoscut s-a denumit Mariorescu. Am uitat maicum.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Oratorul apărea plutind și îmbrăcat în mare fel. Prietenul lui dădea din picioare când trebuia să termine.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Fragmentul este despre o rață care mânca cozonac cu dinți albi.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "Perspectiva narativă nu e prea bună, în sensul că eu no știu.",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "George Bacovia stă înțepenit în sicriu",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "“Scăpai de rușine” înseamnă că a urinat pe el",
+		source: "Bacalaureat 2019"
+	},
+	{
+		text: "E foarte important să-ți structurezi un discurs, ca să nu ajungi ca Viorica Dăncilă",
+		source: "Bacalaureat 2019"
+	},
+
+
+
+	// Evaluarea Naționala 2019
+	{
+		text: "Originea autorului este o familie, o mamă și un tată",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Originea scriitorului este continentul scoțian, dar a avut legături obraznice cu președintele Statelor Unite",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Timpul verbului “a descoperit” este 1908, deci acum 110 ani",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "În timp ce citeam am adormit și am visat că pe geam se aruncă în cameră spioni FBI, CIA și de cyber-securitate, curioși ce jocuri am eu prin calculator",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Cuvântul “băiețel” s-a format prin compunere de la vocativul “băi” și sufixul “ețel”",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Textul e incomplet, nu înțeleg ce zic personajele și nici cerința. Această operă nam mai făcuto",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Nu se stie cum era timpul verbului, acțiunea se petrece demult",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Sinonim pentru “primejdioasa”: care îți rupe picioarele",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Când citeam întins pe iarba, au început să mă piște insectele. M-am umplut de bube, am fost dus la spital cu elicopterul si operat imediat",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Ce ți se poate întâmpla când citești? Exclusiv lucruri minunate! Dar si multe întâmplări",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Cuvântul “băiețel” s-a format de la un băiat normal, dar mai mic",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Sinonim pentru “făgăduiește”: prostește, aburește, fraierește",
+		source: "Evaluarea Naționala 2019"
+	},
+	{
+		text: "Cuvântul “nostalgic” se exprimă printr-o parte de vorbire din mijlocul vorbirii",
+		source: "Evaluarea Naționala 2019"
+	},
+
+
+
+	// Simulare Bacalaureat 2019
+	{
+		text: "Femeia s-a întors storcită vai mama ei, nimic în cap și fleașcă de ploaie.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Ea a umplut parchetul de zoaie, dar în loc să șteargă îi umblau ochii în toate părțile.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Doamna din text e prezentată ca praf și pulbere, așa că n-o putem numi eroină.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Cațavencu se folosea de șmecherie și tupeu ca să îi pună pe dujmani la locul lor.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Autorul era îndrăgostit de matematică, dar era super iubitor mai mult față de profesorul lui.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Copilul hoinărește pentru că are tot timpul o mâncărime să plece în lume.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Viile erau plantate pe fața dealului pentru că oamenii au încercat să le pună pe spate și nu le-a mai ieșit struguri.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Rolul bunicului era să îi ia la nepot dulciuri, un gest frumos deși l-a învățat vicios.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Sensul secvenței “pline de haz” este că personajul se sparge de râs.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Avem nevoie de amintiri așa cum un telefon are nevoie de încărcător și baterie",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Desigur că poți avea mai multe locuri în care să te simți ca acasă, cu condiția să ai mai multe case.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Nesimțirea acasă, deși ai de toate, este o problemă psihică.",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Cine își uită amintirile e un om uituc sau care nu-i pasă de trecut",
+		source: "Simulare Bacalaureat 2019"
+	},
+	{
+		text: "Desigur că poți avea mai multe locuri în care să te simți ca acasă, cu condiția să ai mai multe case.",
+		source: "Simulare Bacalaureat 2019"
+	},
+
+
+
 	// 2018
 
 	// Bacalaureat 2018
